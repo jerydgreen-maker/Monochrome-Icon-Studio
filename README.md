@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://ko-fi.com/jerydgreen">
-    <img src="https://ko-fi.com/img/githubbutton_sm.svg" alt="Support me on Ko-fi">
+    <img src="https://ko-fi.com/img/githubbutton_sm.svg" alt="Support me on Ko-fi"> 
   </a>
 </p>
 
