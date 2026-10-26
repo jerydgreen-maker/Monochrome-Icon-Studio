@@ -12,7 +12,7 @@
 
 Monochrome Icon Studio is a software project focused on creating and editing pixel-based graphics for monochrome displays with different resolutions.
 
-The goal is to provide a dedicated workspace for designing icons and animations that can be adapted to the display dimensions and visual limitations of embedded devices.
+The goal is to provide a dedicated workspace for designing icons and animations that can be adapted to the display dimensions and visual limitations of embedded devices. 
 
 Developed by **Azure Dragon Tech**.
 
