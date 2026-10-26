@@ -1,0 +1,36 @@
+Copyright (c) 2026 Azure Dragon Tech
+
+## Software License
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of the software and associated documentation files (the "Software"), to use,
+copy, modify, merge, publish, distribute, sublicense, and/or sell copies of
+the Software, subject to the following conditions:
+
+1. This copyright notice and this permission notice shall be included in all
+   copies or substantial portions of the Software.
+
+2. You may modify the Software, add features, create derivative works, and
+   publish your own releases.
+
+3. If you distribute modified versions or derivative releases, you must clearly
+   identify your modifications and must not represent them as official releases
+   of the original project.
+
+4. The name "Monochrome Icon Studio" and the original project logo are reserved
+   for the original project. This license does not grant permission to use the
+   original logo or project branding to identify or promote modified versions
+   as official releases. When publishing modified versions, you must retain the
+   original project name and logo in the original project's attribution, while
+   clearly identifying your own modifications and release.
+
+5. This license does not grant trademark rights or ownership of the project's
+   name, logo, or other branding.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
